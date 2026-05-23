@@ -1,2 +1,2 @@
 # go-learning-journey
-My Go programming course notes,practice codes
+My Go programming notes,practice codes
