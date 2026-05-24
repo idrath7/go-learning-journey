@@ -12,4 +12,5 @@ func main() {
 	} else if age == 18 {
 		fmt.Println("You are just a teenager, not eligible to be married")
 	}
+
 }
